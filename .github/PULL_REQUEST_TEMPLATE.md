@@ -18,4 +18,5 @@ Additionally:
  - Features and deprecations must be submitted against main branch.
  - Legacy code removals go to the main branch.
  - Update CHANGELOG.md file.
+ - follow the [Conventional Commits specification](https://www.conventionalcommits.org/).
 -->
