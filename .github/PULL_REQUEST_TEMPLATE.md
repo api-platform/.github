@@ -1,10 +1,7 @@
 | Q             | A
 | ------------- | ---
 | Branch?       | main for features / current stable version branch for bug fixes <!-- see below -->
-| Bug fix?      | yes/no <!-- please update CHANGELOG.md file -->
-| New feature?  | yes/no <!-- please update CHANGELOG.md file -->
-| Deprecations? | yes/no
-| Tickets       | Fix #... <!-- prefix each issue number with "Fix #", no need to create an issue if none exist, explain below instead -->
+| Tickets       | #... <!-- please link related issues if existing -->
 | License       | MIT
 | Doc PR        | api-platform/docs#... <!-- required for new features -->
 <!--
@@ -18,4 +15,5 @@ Additionally:
  - Features and deprecations must be submitted against main branch.
  - Legacy code removals go to the main branch.
  - Update CHANGELOG.md file.
+ - Follow the [Conventional Commits specification](https://www.conventionalcommits.org/).
 -->
