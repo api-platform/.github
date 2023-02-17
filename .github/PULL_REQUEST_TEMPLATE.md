@@ -9,8 +9,8 @@ Replace this notice by a short README for your feature/bugfix. This will help pe
 understand your PR and can be used as a start for the documentation.
 
 Branch: 
-- 2.7 for bugs related to the **backward compatibility layer**, if the bug was in 2.6 let's fix it on the 3.0 branch instead
-- 3.0 for bug fixes
+- 2.7 for bugs related to the **backward compatibility layer**, if the bug was in 2.6 let's fix it on the 3.1 branch instead
+- 3.1 for bug fixes
 - main for new features
 
 Additionally:
