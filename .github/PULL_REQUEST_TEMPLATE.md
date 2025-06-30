@@ -9,7 +9,7 @@ Replace this notice with a short description of your feature/bugfix. This will h
 understand your PR and can be used as a start for the documentation.
 
 Branch: 
-- the stable/latest 3.x for bug fixes
+- the stable/latest 4.x for bug fixes
 - main for new features
 
 For security issues please email contact@les-tilleuls.coop.
